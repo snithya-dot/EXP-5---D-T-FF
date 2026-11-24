@@ -80,28 +80,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 **## Output**
 
 
-## Viva-Voce Questions
-
-●	What is the difference between a latch and a flip-flop?
-
-●	Why is the D flip-flop also called a 'delay' element?
-
-●	How is a T flip-flop derived from a JK flip-flop?
-
-●	What is the characteristic equation of a T flip-flop, and what does it mean when T = 1?
-
-●	What is the difference between synchronous and asynchronous reset? Which one is used here?
-
-●	Why is posedge used in the sensitivity list, and what does 'posedge clk or posedge rst' achieve?
-
-●	What is the purpose of a Verilog testbench?
-
-●	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-●	How would you construct a T flip-flop using a D flip-flop and an XOR gate?
-
-●	How can a chain of T flip-flops be used to build an asynchronous binary counter?
-
 ## Result
 
 Thus, the D Flip-Flop and T Flip-Flop were designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
